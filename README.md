@@ -12,6 +12,10 @@
 
 *MENTOR*:NEELA SANTHOSH KUMAR
 
+*OUTPUT*
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/925f584d-2dcf-4a45-8000-117af657f6e4" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
