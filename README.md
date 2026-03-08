@@ -1,3 +1,17 @@
+#REAL-TIME CHAT APPLICATION
+
+*COMPANY*: CODRECH IT SOLUTIONS
+
+*NAME*: DEEPAK KALIDAS CHORGHE
+
+*INTERN ID*: CTIS5514
+
+*DOMAIN*: FRONT END DEVELOPMENT
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*:NEELA SANTHOSH KUMAR
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
